@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lib/log4j-api-2.0.1.jar lib/commons-net-3.3.jar lib/poi-oo
+ xml-3.11-20141221.jar lib/jsqlparser-0.9.6.jar lib/log4j-core-2.0.1.j
+ ar lib/mysql-connector-java-5.1.24-bin.jar lib/poi-3.11-20141221.jar
+Main-Class: main.Main
+
